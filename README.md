@@ -3,7 +3,7 @@
 <img align="right" alt="image" width="400" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=docker-commits&label=Profile%20views&color=0e75b6&style=flat" alt="docker-commits" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=docker-commits" alt="docker-commits" /></a> </p>
+
 
 - 🔭 I’m currently working with **Wipro**
 
@@ -31,6 +31,4 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/saikumar"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="saikumar" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=docker-commits&show_icons=true&locale=en&layout=compact" alt="docker-commits" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=docker-commits&show_icons=true&locale=en" alt="docker-commits" /></p>
