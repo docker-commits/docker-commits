@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working with **Wipro**
+- 🔭 I’m currently working with **World**
 
 - 🌱 I’m currently learning **LLM's & Docker**
 
